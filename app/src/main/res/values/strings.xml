@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIproject</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="message_LT">hello</string>
+    <string name="change_B">click me</string>
+
+</resources>
